@@ -1,2 +1,2 @@
 # Python_Radios
-[Phython Radios](Python_Radios/3.py)
+[Phython Radios](Fabiannossa/Python_Radios/3.py)
